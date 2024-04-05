@@ -1,0 +1,26 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem;
+    margin-top: 10rem;
+}
+.price{
+    font-weight: 1000;
+}
+.book{
+    width: 10rem;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    border-radius: 30px;
+}
+.clarito{
+    margin: 1rem;
+    color: #c6c6c6;
+    font-weight: 1000;
+}

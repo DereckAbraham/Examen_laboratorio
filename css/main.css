@@ -1,0 +1,105 @@
+.cuadroGris{
+    width: 100%;
+    height: 30rem;
+    margin: auto;
+    margin-top: 2rem;
+    background-color: #c6c6c6;
+}
+.numero{
+    width: 4rem;
+    height: 2rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    margin: 2rem;
+    color: white;
+    font-weight: 600;
+    border-radius: 60px;
+    background-color: #848484;
+}
+
+.resenna{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 1rem;
+    gap: 1rem;
+    margin: 1.1rem;
+}
+.texto{
+    font-weight: 1000;
+}
+.textoTwo{
+    font-weight: 1000;
+    color: #c6c6c688;
+}
+h2{
+    margin: 1rem;
+    margin-top: 1rem;
+}
+.opciones{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+
+}
+.divsOpcion{
+    display: flex;
+    flex-direction: row;
+    padding: 1rem;
+    align-items: center;
+    width: 17rem;
+    height: 5rem;
+    border: 1px solid #9a9a9a;
+    gap: 2rem;
+    border-radius: 20px;
+}
+.opcionArriba{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 1rem;
+}
+.opcionAbajo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 1rem;
+}
+.comentario{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.fto{
+    width: 5rem;
+    height: 5rem;
+    background-color: #c6c6c6;
+    border-radius: 100%;
+    margin: 1rem;
+}
+.nombrePerfil{
+    margin: 1rem;
+    font-weight: 1000;
+}
+.claro{
+    font-weight: 1000;
+    color: #c6c6c6;
+
+}
+.comentarioLargo{
+    font-size: 2rem;
+    font-weight: 100;
+    margin: 1rem;
+}
+.more{
+    font-size: 1.5rem;
+    margin: 1rem;
+    font-weight: 1000;
+}
